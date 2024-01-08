@@ -3,7 +3,7 @@
 /**
  * Represents the player character.
  *
- * @author Kyler Robison
+ * @author Cameron Lempitsky
  */
 class Doug extends Character {
     /**
