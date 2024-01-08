@@ -4,7 +4,7 @@ A 2D JavaScript RPG/Adventure web game.
 <br>
 
 ## 🔗 Demo link:
-Play at [https://krobison10.github.io/dougs-adventure/](https://krobison10.github.io/dougs-adventure/) now!
+Play at https://camlempitsky.github.io/portfolio/ now!
 
 <br>
 
